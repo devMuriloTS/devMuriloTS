@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá! Eu sou o Murilo. 🎅 Sou estudante de TI pelo Ulbra São Lucas
 
-<!--
-**devMuriloTS/devMuriloTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=devMuriloTS&show_icons=true&theme=dracula)
 
-Here are some ideas to get you started:
+### Tecnologias que eu estudo:
+<div style="display: inline_block">
+  <br/>
+	<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
+	<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> </img>
+</div>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Adoro trocar informações com colegas, conversar, me preocupo com os estudos e meu objetivo é me tornar um ótimo desenvolvedor.
